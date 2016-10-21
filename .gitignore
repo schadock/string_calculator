@@ -1,0 +1,6 @@
+.idea/
+.vagrant/
+vagrant/
+envname/
+*log
+__pycache__/
